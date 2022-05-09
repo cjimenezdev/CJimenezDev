@@ -8,7 +8,7 @@
 
 - <img align="center" src="./assets/porfolio.png" heigth="16" width="16" alt="portfolio" /> All of my projects are available at [https://carlosjimenezdev.netlify.app](https://carlosjimenezdev.netlify.app)
 
-- <img align="center" src="./assets/email.png" heigth="16" width="16" alt="email" /> How to reach me **carlosjimenez32077@gmail.com**
+- <img align="center" src="./assets/gmail.png" heigth="16" width="16" alt="email" /> How to reach me **carlosjimenez32077@gmail.com**
 
 <h3 align="left">GitHub Status:</h3>
 
