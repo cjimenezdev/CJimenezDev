@@ -1,3 +1,5 @@
+<p align="center"><img align="center" src="CjimenezDev/assets/profile.jfifi" alt="cjimenezdev" /></p>
+
 <h1 align="center">Hi 👋, I'm Carlos Jimenez</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
