@@ -6,7 +6,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cjimenezdev&" alt="cjimenezdev" /></p>
 <p align="left"> <a href="https://twitter.com/carlos77j" target="_blank"><img src="https://img.shields.io/twitter/follow/carlos77j?logo=twitter&style=for-the-badge" alt="carlos77j" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://carlosjimenezdev.netlify.app](https://carlosjimenezdev.netlify.app)
+- <img align="center" src="./assets/porfolio.png" heigth="16" width="16" alt="portfolio" /> All of my projects are available at [https://carlosjimenezdev.netlify.app](https://carlosjimenezdev.netlify.app)
 
 - 📫 How to reach me **carlosjimenez32077@gmail.com**
 
