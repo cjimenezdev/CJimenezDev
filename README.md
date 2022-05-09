@@ -22,7 +22,7 @@
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cjimenezdev&show_icons=true&locale=en&layout=compact" alt="cjimenezdev" /></p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/carlos77j" target="blank"><img align="center" src="./assets/twitter.png" alt="carlos77j" height="30" width="30" /></a> <a href="https://fb.com/cj71995" target="blank"><img align="center" src="./assets/facebook.png" alt="https://www.facebook.com/cj71995" height="30" width="30" /></a>
+<p align="left">  <a href="https://fb.com/cj71995" target="blank"><img align="center" src="./assets/facebook.png" alt="https://www.facebook.com/cj71995" height="30" width="30" /></a> <a href="https://fb.com/cj71995" target="blank"><img align="center" src="./assets/instagram.png" alt="https://www.facebook.com/cj71995" height="30" width="30" /></a> <a href="https://twitter.com/carlos77j" target="blank"><img align="center" src="./assets/twitter.png" alt="carlos77j" height="30" width="30" /></a>
 </p>
 
 
