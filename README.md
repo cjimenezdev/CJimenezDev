@@ -1,10 +1,10 @@
-<p align="center"><img align="center" src="https://github.com/cjimenezdev/CjimenezDev/assets/profile.jfif" alt="cjimenezdev" /></p>
+<p align="center"><img align="center" src="./assets/profile.jfif" heigth="70" width="70" alt="cjimenezdev" /></p>
 
 <h1 align="center">Hi 👋, I'm Carlos Jimenez</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cjimenezdev&" alt="cjimenezdev" /></p>
-<p align="left"> <a href="https://twitter.com/carlos77j" target="blank"><img src="https://img.shields.io/twitter/follow/carlos77j?logo=twitter&style=for-the-badge" alt="carlos77j" /></a> </p>
+<p align="left"> <a href="https://twitter.com/carlos77j" target="_blank"><img src="https://img.shields.io/twitter/follow/carlos77j?logo=twitter&style=for-the-badge" alt="carlos77j" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://carlosjimenezdev.netlify.app](https://carlosjimenezdev.netlify.app)
 
